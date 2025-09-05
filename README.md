@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/Ritviks21">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there%2C+I'm+Ritvik+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
@@ -22,11 +23,11 @@
 
 I'm a developer from India 🇮🇳 with a passion for building intelligent systems that tackle unique challenges. My expertise covers both the perceptive and generative sides of artificial intelligence.
 
-In **Computer Vision**, I build end-to-end pipelines using **PyTorch** and **YOLOv8**, with a focus on solving real-world problems through techniques like **synthetic dataset engineering**. In parallel, I specialize in **Generative AI**, where I design autonomous agents with complex reasoning loops using **advanced prompt engineering** and **function calling**. I also build **full-stack web applications**, creating intuitive and visually compelling user experiences with modern front-end technologies.
+In *Computer Vision, I build end-to-end pipelines using **PyTorch* and *YOLOv8, with a focus on solving real-world problems through techniques like **synthetic dataset engineering. In parallel, I specialize in **Generative AI, where I design autonomous agents with complex reasoning loops using **advanced prompt engineering* and *function calling. I also build **full-stack web applications*, creating intuitive and visually compelling user experiences with modern front-end technologies.
 
 My goal is to merge these fields to create robust, intelligent, and visually compelling applications.
 
-- 📫 You can reach out to me at: *ritvikrajs99@gmail.com*
+- 📫 You can reach out to me at: ritvikrajs99@gmail.com
 
 ---
 
@@ -71,7 +72,7 @@ My goal is to merge these fields to create robust, intelligent, and visually com
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ MUJ UniWay</h3>
+      <h3>🗺 MUJ UniWay</h3>
       <p>A collaborative web-based platform providing accurate, interactive navigation for the Manipal University Jaipur campus. Solves the challenge of on-campus routing by using a custom-mapped GeoJSON dataset of footpaths and roads.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -137,10 +138,10 @@ My goal is to merge these fields to create robust, intelligent, and visually com
 
 ---
 
-### 🎮 My GitHub Contribution Breakout
+## 🐍 My GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-breakout.onrender.com/user/Ritviks21" width="100%" alt="Ritvik's GitHub Breakout"/>
+  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
