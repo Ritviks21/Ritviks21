@@ -137,10 +137,12 @@ My goal is to merge these fields to create robust, intelligent, and visually com
 
 ---
 
-## 🐍 My GitHub Contribution Snake
+### 🎮 My GitHub Contribution Breakout
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/Ritviks21/output/github-contribution-grid-snake-dark.svg">
+  <a href="https://github.com/Ritviks21">
+    <img src="https://github-breakout.onrender.com/user/Ritviks21" alt="Ritvik's GitHub Breakout">
+  </a>
 </p>
 
 ---
