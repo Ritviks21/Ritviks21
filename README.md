@@ -140,9 +140,7 @@ My goal is to merge these fields to create robust, intelligent, and visually com
 ### 🎮 My GitHub Contribution Breakout
 
 <p align="center">
-  <a href="https://github.com/Ritviks21">
-    <img src="https://github-breakout.onrender.com/user/Ritviks21" alt="Ritvik's GitHub Breakout">
-  </a>
+  <img src="https://github-breakout.onrender.com/user/Ritviks21" width="100%" alt="Ritvik's GitHub Breakout"/>
 </p>
 
 ---
