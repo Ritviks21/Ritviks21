@@ -23,10 +23,9 @@
 
 <img src="https://github.com/Ritviks21/Ritviks21/blob/main/dragon.gif?raw=true" align="right" alt="Cute Coding Dragon" width="150" />
 
-I'm a developer from India 🇮🇳 with a passion for building intelligent systems that tackle unique challenges. My expertise covers both the perceptive and generative sides of artificial intelligence.
+I'm an AI / Machine Learning Engineer from India 🇮🇳 focused on building robust, end-to-end intelligent systems. My work spans predictive modeling, custom computer vision pipelines, and deploying interactive AI architectures that solve complex real-world problems.
 
-In <b>Computer Vision</b>, I build end-to-end pipelines using <i>PyTorch</i> and <i>YOLOv8</i>, with a focus on solving real-world problems through techniques like <b>synthetic dataset engineering</b>. In parallel, I specialize in <b>Generative AI</b>, where I design autonomous agents with complex reasoning loops using <i>advanced prompt engineering</i> and <i>function calling</i>. I also build <b>full-stack web applications</b>, creating intuitive and visually compelling user experiences with modern front-end technologies.
-
+I specialize in training and optimizing vision models like YOLOv8 using advanced synthetic dataset engineering, as well as designing high-accuracy tabular pipelines with proven explainability metrics (SHAP). To bring my models to life, I engineer full-stack interfaces and autonomous reasoning agents utilizing modern front-end frameworks and LLM function calling loops.
 My goal is to merge these fields to create robust, intelligent, and visually compelling applications.
 
 - 📫 You can reach out to me at: ritvikrajs99@gmail.com
@@ -72,27 +71,24 @@ My goal is to merge these fields to create robust, intelligent, and visually com
       </a>
     </td>
   </tr>
-  <tr>
+<tr>
     <td width="50%" valign="top">
-      <h3>🗺 MUJ UniWay</h3>
-      <p>A collaborative web-based platform providing accurate, interactive navigation for the Manipal University Jaipur campus. Solves the challenge of on-campus routing by using a custom-mapped GeoJSON dataset of footpaths and roads.</p>
+      <h3>🌾 Farm Friend</h3>
+      <p>An end-to-end predictive ML system for agriculture optimization. Achieved an R² score of 0.9558, utilizing SHAP (Shapley Additive exPlanations) for model transparency, integrated with a multilingual LLM advisory agent for real-time farmer support.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-        <img src="https://img.shields.io/badge/Leaflet-1EB300?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet.js">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
       </p>
-      <a href="https://github.com/Gargi016/MUJ-Uniway"><strong>View Repository &rarr;</strong></a>
+      <a href="https://huggingface.co/spaces/srits21"><strong>View Live Deployment &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://gargi016.github.io/MUJ-Uniway/">
-        <img src="https://raw.githubusercontent.com/Gargi016/MUJ-Uniway/main/docs/ChatGPT%20Image%20Aug%2013%2C%202025%2C%2003_45_17%20AM.png" alt="MUJ UniWay Banner">
+      <a href="https://huggingface.co/spaces/srits21">
+        <img src="https://github.com/Ritviks21/Ritviks21/blob/main/farm-friend-banner.png?raw=true" alt="Farm Friend Dashboard">
       </a>
     </td>
   </tr>
-</table>
-
----
 
 ## 🛠 My Tech Stack & Skills
 
