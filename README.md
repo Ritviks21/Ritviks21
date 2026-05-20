@@ -23,7 +23,7 @@
 
 I'm a developer from India 🇮🇳 with a passion for building intelligent systems that tackle unique challenges. My expertise covers both the perceptive and generative sides of artificial intelligence.
 
-In *Computer Vision, I build end-to-end pipelines using **PyTorch* and *YOLOv8, with a focus on solving real-world problems through techniques like **synthetic dataset engineering. In parallel, I specialize in **Generative AI, where I design autonomous agents with complex reasoning loops using **advanced prompt engineering* and *function calling. I also build **full-stack web applications*, creating intuitive and visually compelling user experiences with modern front-end technologies.
+In Computer Vision, I build end-to-end pipelines using PyTorch and YOLOv8, with a focus on solving real-world problems through techniques like synthetic dataset engineering. In parallel, I specialize in Generative AI, where I design autonomous agents with complex reasoning loops using advanced prompt engineering and function calling. I also build full-stack web applications, creating intuitive and visually compelling user experiences with modern front-end technologies.
 
 My goal is to merge these fields to create robust, intelligent, and visually compelling applications.
 
