@@ -85,7 +85,7 @@ My goal is to merge these fields to create robust, intelligent, and visually com
     </td>
     <td width="50%" valign="top">
       <a href="https://huggingface.co/spaces/srits21">
-        <img src="https://github.com/Ritviks21/Ritviks21/blob/main/farm-friend-banner.png?raw=true" alt="Farm Friend Dashboard">
+       <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/ChatGPT%20Image%20May%2020%2C%202026%2C%2007_04_39%20PM.png" alt="Farm Friend Project Banner" width="100%">
       </a>
     </td>
   </tr>
