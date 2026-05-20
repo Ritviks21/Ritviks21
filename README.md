@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/Ritviks21">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=550&lines=Hi+there%2C+I'm+Ritvik+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
@@ -71,7 +70,7 @@ My goal is to merge these fields to create robust, intelligent, and visually com
       </a>
     </td>
   </tr>
-<tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌾 Farm Friend</h3>
       <p>An end-to-end predictive ML system for agriculture optimization. Achieved an R² score of 0.9558, utilizing SHAP (Shapley Additive exPlanations) for model transparency, integrated with a multilingual LLM advisory agent for real-time farmer support.</p>
@@ -89,8 +88,9 @@ My goal is to merge these fields to create robust, intelligent, and visually com
       </a>
     </td>
   </tr>
+</table>
 
-<h3 align="left">🛠️ Tech Stack & Systems Architecture</h3>
+## 🛠️ Tech Stack & Systems Architecture
 
 <table>
   <tr>
@@ -118,7 +118,8 @@ My goal is to merge these fields to create robust, intelligent, and visually com
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
     </td>
   </tr>
-</table>
+</table> 
+
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
