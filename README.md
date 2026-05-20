@@ -21,15 +21,17 @@
 
 ### 👨‍💻 About Me
 
+<img src="https://github.com/Ritviks21/Ritviks21/blob/main/dragon.gif?raw=true" align="right" alt="Cute Coding Dragon" width="150" />
+
 I'm a developer from India 🇮🇳 with a passion for building intelligent systems that tackle unique challenges. My expertise covers both the perceptive and generative sides of artificial intelligence.
 
-In Computer Vision, I build end-to-end pipelines using PyTorch and YOLOv8, with a focus on solving real-world problems through techniques like synthetic dataset engineering. In parallel, I specialize in Generative AI, where I design autonomous agents with complex reasoning loops using advanced prompt engineering and function calling. I also build full-stack web applications, creating intuitive and visually compelling user experiences with modern front-end technologies.
+In <b>Computer Vision</b>, I build end-to-end pipelines using <i>PyTorch</i> and <i>YOLOv8</i>, with a focus on solving real-world problems through techniques like <b>synthetic dataset engineering</b>. In parallel, I specialize in <b>Generative AI</b>, where I design autonomous agents with complex reasoning loops using <i>advanced prompt engineering</i> and <i>function calling</i>. I also build <b>full-stack web applications</b>, creating intuitive and visually compelling user experiences with modern front-end technologies.
 
 My goal is to merge these fields to create robust, intelligent, and visually compelling applications.
 
 - 📫 You can reach out to me at: ritvikrajs99@gmail.com
 
----
+<br clear="right"/>
 
 ## 🚀 My Projects
 
