@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Ritviks21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+there%2C+I'm+Ritvik+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=550&lines=Hi+there%2C+I'm+Ritvik+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
