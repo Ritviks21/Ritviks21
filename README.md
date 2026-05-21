@@ -24,16 +24,18 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://github.com/Ritviks21/Ritviks21/blob/main/dragon.gif?raw=true" align="right" alt="Cute Coding Dragon" width="150" />
+Hi, I'm Ritvik! I'm an AI & Machine Learning Engineer who loves translating complex algorithms into real-world applications. 
 
-I'm an AI / Machine Learning Engineer from India 🇮🇳 focused on building robust, end-to-end intelligent systems. My work spans predictive modeling, custom computer vision pipelines, and deploying interactive AI architectures that solve complex real-world problems.
+Instead of just training models in a sandbox, I focus on the entire pipeline—from engineering hyper-realistic synthetic datasets for **YOLOv8 vision models** to deploying interactive full-stack AI interfaces backed by explainable metrics (SHAP).
 
-I specialize in training and optimizing vision models like YOLOv8 using advanced synthetic dataset engineering, as well as designing high-accuracy tabular pipelines with proven explainability metrics (SHAP). To bring my models to life, I engineer full-stack interfaces and autonomous reasoning agents utilizing modern front-end frameworks and LLM function calling loops.
-My goal is to merge these fields to create robust, intelligent, and visually compelling applications.
+🎯 Always experimenting with custom computer vision workflows and autonomous agent logic. Let's build something cool.
 
-- 📫 You can reach out to me at: ritvikrajs99@gmail.com
+📬 Reach me at: ritvikrajs99@gmail.com
 
-<br clear="right"/>
+<p align="center">
+  <br>
+  <img src="https://github.com/Ritviks21/Ritviks21/blob/main/dragon.gif?raw=true" width="130" alt="Coding Dragon" />
+</p>
 
 ---
 
