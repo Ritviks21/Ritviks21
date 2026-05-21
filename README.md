@@ -163,3 +163,5 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRitviks21&label=Profile%20Views&countColor=%23263759&style=flat-square" alt="Profile Views">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=100&section=footer" width="100%"/>
