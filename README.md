@@ -44,7 +44,7 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡 Silicon Sentinel</h3>
+      <h3>🛡️ Silicon Sentinel</h3>
       <p>An end-to-end AI system to detect microscopic defects on semiconductor wafers. This project showcases a full development cycle, from creating a hyper-realistic synthetic dataset to deploying a robust YOLOv8 model.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -52,17 +52,18 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
       </p>
-      <a href="https://github.com/Ritviks21/Silicon-Sentinel"><strong>View Repository &rarr;</strong></a>
+      <a href="https://github.com/Ritviks21/Silicon-Sentinel"><strong>View Repository</strong></a> &bull; <a href="https://silicon-sentinel-qr94pmvkxeykxenptcsyb2.streamlit.app/" target="_blank"><strong>View Live Deployment &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://silicon-sentinel.onrender.com/">
+      <a href="https://silicon-sentinel-qr94pmvkxeykxenptcsyb2.streamlit.app/" target="_blank">
         <img src="https://github.com/Ritviks21/Silicon-Sentinel/raw/main/docs/images/Silicon%20sentinel%20%20project%20banner.png" alt="Silicon Sentinel Banner">
       </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3>🏔 The Sahyadri Strategist</h3>
+      <h3>🏔️ The Sahyadri Strategist</h3>
       <p>A strategic forecasting tool using a hybrid Quantum-AI architecture to simulate the impact of complex crises on Maharashtra's agriculture. It leverages Qiskit for simulation and Google Gemini for AI-driven strategic analysis.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -70,14 +71,15 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
         <img src="https://img.shields.io/badge/Google%20Gemini-8E77F0?style=flat-square&logo=google&logoColor=white" alt="Gemini">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
       </p>
-      <a href="https://github.com/Ritviks21/Project-Krishi-Q"><strong>View Repository &rarr;</strong></a>
+      <a href="https://github.com/Ritviks21/Project-Krishi-Q"><strong>View Repository</strong></a> &bull; <a href="https://ritviks21-maharashtra-oracle-app-forivi.streamlit.app/" target="_blank"><strong>View Live Deployment &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://ritviks21-maharashtra-oracle-app-forivi.streamlit.app/">
+      <a href="https://ritviks21-maharashtra-oracle-app-forivi.streamlit.app/" target="_blank">
         <img src="https://github.com/Ritviks21/Project-Krishi-Q/raw/main/docs/images/ChatGPT%20Image%20Jul%2027%2C%202025%2C%2005_33_02%20AM.png" alt="The Sahyadri Strategist Banner">
       </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 Farm Friend</h3>
@@ -88,10 +90,10 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
         <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
       </p>
-      <a href="https://huggingface.co/spaces/srits21"><strong>View Live Deployment &rarr;</strong></a>
+      <a href="https://github.com/Ritviks21/F2-Farm-Friend-"><strong>View Repository</strong></a> &bull; <a href="https://huggingface.co/spaces/srits21" target="_blank"><strong>View Live Deployment &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://huggingface.co/spaces/srits21">
+      <a href="https://huggingface.co/spaces/srits21" target="_blank">
        <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/ChatGPT%20Image%20May%2020%2C%202026%2C%2007_04_39%20PM.png" alt="Farm Friend Project Banner" width="100%">
       </a>
     </td>
