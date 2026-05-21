@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://github.com/Ritviks21">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&width=550&lines=Hi+there%2C+I'm+Ritvik+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=Ritvik%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Ritvik Singh Header" width="100%">
 </p>
 
 <p align="center">
-    <a href="https://x.com/gemdata21" target="_blank">
+  <a href="https://x.com/gemdata21" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://huggingface.co/srits21" target="_blank">
@@ -13,6 +11,12 @@
   </a>
   <a href="https://www.linkedin.com/in/ritvik-raj-singh-429922379" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/ritvik-raj-singh-429922379" target="_blank">
+    <img src="https://img.shields.io/badge/🎯%20Open%20to-Internships%20%26%20Collaborations-9d4edd?style=for-the-badge&labelColor=0d0118" alt="Open to Internships"/>
   </a>
 </p>
 
@@ -30,6 +34,8 @@ My goal is to merge these fields to create robust, intelligent, and visually com
 - 📫 You can reach out to me at: ritvikrajs99@gmail.com
 
 <br clear="right"/>
+
+---
 
 ## 🚀 My Projects
 
@@ -90,6 +96,8 @@ My goal is to merge these fields to create robust, intelligent, and visually com
   </tr>
 </table>
 
+---
+
 ## 🛠️ Tech Stack & Systems Architecture
 
 <table>
@@ -120,6 +128,8 @@ My goal is to merge these fields to create robust, intelligent, and visually com
   </tr>
 </table> 
 
+---
+
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
@@ -132,8 +142,18 @@ My goal is to merge these fields to create robust, intelligent, and visually com
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ritviks21&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br><br>
+  <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ritviks21&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritviks21&theme=dracula&hide_border=true" alt="GitHub Trophies">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
 </p>
 
 ---
