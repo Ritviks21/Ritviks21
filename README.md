@@ -131,13 +131,9 @@ My goal is to merge these fields to create robust, intelligent, and visually com
 ## 📊 My GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritviks21&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritviks21&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritviks21&theme=dracula&hide_border=true" alt="GitHub Trophies">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ritviks21&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ritviks21&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
 </p>
 
 ---
