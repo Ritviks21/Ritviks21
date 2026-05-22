@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/ritvik-raj-singh-429922379" target="_blank">
+  <a href="https://forms.gle/ZCWMBGEEStMZmjTd8" target="_blank">
     <img src="https://img.shields.io/badge/🎯%20Open%20to-Internships%20%26%20Collaborations-9d4edd?style=for-the-badge&labelColor=0d0118" alt="Open to Internships"/>
   </a>
 </p>
