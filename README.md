@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=120&section=header&text=Ritvik%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Ritvik Singh Header" width="100%">
 </p>
@@ -14,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">  
+<p align="center">
   <a href="https://forms.gle/ZCWMBGEEStMZmjTd8" target="_blank">
     <img src="https://img.shields.io/badge/🎯%20Open%20to-Internships%20%26%20Collaborations-9d4edd?style=for-the-badge&labelColor=0d0118" alt="Open to Internships"/>
   </a>
@@ -24,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm Ritvik! I'm an AI & Machine Learning Engineer who loves translating complex algorithms into real-world applications. 
+Hi, I'm Ritvik! I'm an AI & Machine Learning Engineer who loves translating complex algorithms into real-world applications.
 
 Instead of just training models in a sandbox, I focus on the entire pipeline—from engineering hyper-realistic synthetic datasets for **YOLOv8 vision models** to deploying interactive full-stack AI interfaces backed by explainable metrics (SHAP).
 
@@ -42,6 +43,26 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
 ## 🚀 My Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🫁 PneumoScan AI</h3>
+      <p>A computer vision research project for pediatric pneumonia classification using chest X-ray images. Compares a custom CNN against frozen and fine-tuned MobileNetV2 transfer learning models on the PneumoniaMNIST benchmark. Includes an interactive Streamlit application for uploading X-rays and exploring model predictions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras">
+        <img src="https://img.shields.io/badge/MobileNetV2-4285F4?style=flat-square&logo=google&logoColor=white" alt="MobileNetV2">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+      </p>
+      <a href="https://github.com/Ritviks21/pneumoscan-ai"><strong>View Repository</strong></a> &bull; <a href="https://pneumoscan-ai-tnglamtsnsg4yd37q84jyw.streamlit.app/" target="_blank"><strong>View Live Deployment &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://pneumoscan-ai-tnglamtsnsg4yd37q84jyw.streamlit.app/" target="_blank">
+        <img src="https://github.com/Ritviks21/pneumoscan-ai/raw/main/docs/PneumoScan%20AI%20Medical%20Research%20Banner.png" alt="PneumoScan AI Project Banner" width="100%">
+      </a>
+    </td>
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Silicon Sentinel</h3>
@@ -121,7 +142,8 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
       <b>📊 Core Machine Learning</b><br><br>
       <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"><br>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"><br>
-      <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     </td>
     <td valign="top" width="25%">
       <b>🌐 Deployment & Interaction</b><br><br>
@@ -130,7 +152,7 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
     </td>
   </tr>
-</table> 
+</table>
 
 ---
 
@@ -151,7 +173,7 @@ Instead of just training models in a sandbox, I focus on the entire pipeline—f
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritviks21&theme=dracula&hide_border=true" alt="GitHub Trophies">
+  <img src="https://trophy.benkou.dev/?username=Ritviks21&theme=dracula&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
